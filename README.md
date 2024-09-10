@@ -8,7 +8,7 @@
 
 
 
-📺 Courses and Certifications:
+## 📺 Courses and Certifications:
 
 
 • Microsoft Technology Associate Database Fundamentals: [MTA 98-364](https://www.credly.com/badges/ff540ba4-d580-47e5-b770-5242ccd79bdd/linked_in_profile)
