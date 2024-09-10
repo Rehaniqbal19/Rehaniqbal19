@@ -4,7 +4,9 @@
 
 
 
-[Executive Dashboard Report](https://github.com/Rehaniqbal19/Visualization/tree/main): A Python based comprehensive alert set up to assess recent models' performance on the queue.
+
+[Executive Dashboard Report](https://github.com/Rehaniqbal19/Visualization/tree/main): A Power BI based comprehensive alert set up to assess recent models' performance on the queue.
+
 
 
 
