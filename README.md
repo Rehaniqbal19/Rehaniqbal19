@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+📺 Courses and Certifications:
+Microsoft Technology Associate Database Fundamentals: [MTA 98-364](https://www.credly.com/badges/ff540ba4-d580-47e5-b770-5242ccd79bdd/linked_in_profile)
+
+
 <!--
 **Rehaniqbal19/Rehaniqbal19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
