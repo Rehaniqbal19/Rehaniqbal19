@@ -16,6 +16,8 @@ This Power BI dashboard provides a comprehensive analysis of sales performance f
 
 
 
+### • Hospital Patient Records Dashboard: 
+This Shiny application provides a comprehensive dashboard for visualizing and analyzing hospital patient records, based on a dataset containing patient demographics, encounters, procedures, payers, and hospital organizations. The dashboard allows users to explore different aspects of the data, including patient demographics, encounter trends, procedure costs, and more.
 
 
 ## 📺 Courses and Certifications:
