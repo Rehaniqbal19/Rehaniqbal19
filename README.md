@@ -22,6 +22,7 @@ This Shiny application provides a comprehensive dashboard for visualizing and an
 
 ## 📺 Courses and Certifications:
 
+• Microsoft Azure Fundamentals: [AZ-900](https://learn.microsoft.com/en-us/users/rehaniqbal-8477/credentials/fc859fb86644273f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 • Microsoft Technology Associate Database Fundamentals: [MTA 98-364](https://www.credly.com/badges/ff540ba4-d580-47e5-b770-5242ccd79bdd/linked_in_profile)
 
