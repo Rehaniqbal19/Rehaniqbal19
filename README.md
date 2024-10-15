@@ -30,6 +30,8 @@ This R Shiny application provides a basic dashboard for visualizing and analyzin
 
 • [Certified Product Owner®](https://bcert.me/bc/html/show-badge.html?b=cruevcah) (Scrum Alliance)
 
+• [The Data Analyst Course: Complete Data Analyst Bootcamp](https://www.udemy.com/certificate/UC-74d1ef8d-0fa2-40ae-8c63-e4ace571e9e1/) (Udemy - Python (numpy, pandas, matplotlib, seaborn))
+
 • [Complete Python Bootcamp from Zero to Hero](https://www.udemy.com/certificate/UC-84afd0be-d9b2-466a-b121-7d52b75be547/) (Udemy)
 
 • [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-72240b8d-be3e-453e-a5df-7c46e2761377/) (Udemy)
