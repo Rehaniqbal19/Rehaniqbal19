@@ -5,6 +5,9 @@
 
 ## Projects
 
+### • [Global Economic Report: 1960-2018:](https://github.com/Rehaniqbal19/EconomicReport/)
+Using Python and popular libraries such as Pandas, Numpy, Matplotlib and Seaborn, I created a comprehensive data visualization on global economic trends spanning from 1960 to 2018. This project dives deep into GDP growth, population shifts, and development indicators to analyze economic progress and provide insightful projections.
+
 
 ### • [Executive Dashboard Report](https://github.com/Rehaniqbal19/Executive-Detailed-Report/tree/main): 
 A Power BI based report designed to provide actionable insights into various aspects of the company's performance. It consolidates and visualizes data from multiple sources, allowing stakeholders to make data-driven decisions across different operational areas, including sales, profitability, customer orders, and product returns.
@@ -18,6 +21,8 @@ This Power BI dashboard provides a comprehensive analysis of sales performance f
 
 ### • [Hospital Patient Records Dashboard](https://github.com/Rehaniqbal19/Hospital-Patient-Dashboard/blob/main/README.md): 
 This R Shiny application provides a basic dashboard for visualizing and analyzing hospital patient records, based on a dataset containing patient demographics, encounters, procedures, payers, and hospital organizations. The dashboard allows users to explore different aspects of the data, including patient demographics, encounter trends, procedure costs, and more.
+
+
 
 
 ## 📺 Courses and Certifications:
