@@ -9,7 +9,7 @@
 Using Python and popular libraries such as Pandas, Numpy, Matplotlib and Seaborn, I created a comprehensive data visualization on global economic trends spanning from 1960 to 2018. This project dives deep into GDP growth, population shifts, and development indicators to analyze economic progress and provide insightful projections.
 
 
-### • [Executive Dashboard Report](https://github.com/Rehaniqbal19/Executive-Detailed-Report/tree/main): 
+### • [Executive Dashboard](https://github.com/Rehaniqbal19/Executive-Detailed-Report/tree/main): 
 A Power BI based report designed to provide actionable insights into various aspects of the company's performance. It consolidates and visualizes data from multiple sources, allowing stakeholders to make data-driven decisions across different operational areas, including sales, profitability, customer orders, and product returns.
 
 
