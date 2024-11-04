@@ -13,6 +13,8 @@ Using Python and popular libraries such as Pandas, Numpy, Matplotlib and Seaborn
 A Power BI based report designed to provide actionable insights into various aspects of the company's performance. It consolidates and visualizes data from multiple sources, allowing stakeholders to make data-driven decisions across different operational areas, including sales, profitability, customer orders, and product returns.
 
 
+### • [New York Airbnb Listing EDA: 2008-2021](https://github.com/Rehaniqbal19/NewYork-Airbnb-Listing): 
+Using Python and popular libraries such as Pandas, Numpy, Matplotlib and Seaborn, I did Exploratory Data Analysis (EDA) on New York's AirBnB Listings and discovered valuable insights. The data ranged from 2008 to 2021.
 
 ### • [Product Sales Performance Dashboard](https://github.com/Rehaniqbal19/Product-Market-Analysis/blob/main/README.md): 
 This Power BI dashboard provides a comprehensive analysis of sales performance for different product brands across multiple regions (Canada, Mexico, USA). Key metrics displayed include total transactions, total profit, profit margin, and return rate by product brand, with interactive year selection between 1997 and 1998.
