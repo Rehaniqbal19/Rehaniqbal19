@@ -16,11 +16,13 @@ A Power BI based report designed to provide actionable insights into various asp
 ### • [New York Airbnb Listing EDA: 2008-2021](https://github.com/Rehaniqbal19/NewYork-Airbnb-Listing): 
 Using Python and popular libraries such as Pandas, Numpy, Matplotlib and Seaborn, I did Exploratory Data Analysis (EDA) on New York's AirBnB Listings and discovered valuable insights. The data ranged from 2008 to 2021.
 
+### • [Baby Names Analysis ](https://github.com/Rehaniqbal19/BabyName_SQL)
+Using MySQL, I conducted a comprehensive analysis on the Baby Names dataset spaning across from 1980 to 2009. I leveraged SQL to uncover these insights from large dataset of more than 2 million rows.
+
 ### • [Product Sales Performance Dashboard](https://github.com/Rehaniqbal19/Product-Market-Analysis/blob/main/README.md): 
 This Power BI dashboard provides a comprehensive analysis of sales performance for different product brands across multiple regions (Canada, Mexico, USA). Key metrics displayed include total transactions, total profit, profit margin, and return rate by product brand, with interactive year selection between 1997 and 1998.
 
-### • [Baby Names Analysis ](https://github.com/Rehaniqbal19/BabyName_SQL)
-Using MySQL, I conducted a comprehensive analysis on the Baby Names dataset spaning across from 1980 to 2009. I leveraged SQL to uncover these insights from large dataset of more than 2 million rows.
+
 
 ### • [Hospital Patient Records Dashboard](https://github.com/Rehaniqbal19/Hospital-Patient-Dashboard/blob/main/README.md): 
 This R Shiny application provides a basic dashboard for visualizing and analyzing hospital patient records, based on a dataset containing patient demographics, encounters, procedures, payers, and hospital organizations. The dashboard allows users to explore different aspects of the data, including patient demographics, encounter trends, procedure costs, and more.
