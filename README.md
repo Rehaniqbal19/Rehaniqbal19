@@ -5,6 +5,10 @@
 
 ## Projects
 
+### • [Retail Store Data Integration Project: Snowflake, Python, SQL & Power BI](https://github.com/Rehaniqbal19/RetailStore_Dashboard/)
+This project simulates a real-world scenario of building a modern data warehouse and business intelligence (DWBI) solution for a retail company. Using tools like Python, Snowflake, SQL, and Power BI, we follow the journey from raw data to impactful executive dashboards. The goal is to demonstrate how a complete analytics solution can be built i.e. from data modeling to insight generation, using cloud and open-source tools.
+
+
 ### • [Global Economic Report: 1960-2018:](https://github.com/Rehaniqbal19/EconomicReport/)
 Using Python and popular libraries such as Pandas, Numpy, Matplotlib and Seaborn, I created a comprehensive data visualization on global economic trends spanning from 1960 to 2018. This project dives deep into GDP growth, population shifts, and development indicators to analyze economic progress and provide insightful projections.
 
