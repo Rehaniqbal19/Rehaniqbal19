@@ -8,27 +8,25 @@
 ### • [Retail Store Data Integration Project: Snowflake, Python, SQL & Power BI](https://github.com/Rehaniqbal19/RetailStore_Dashboard/)
 This project simulates a real-world scenario of building a modern data warehouse and business intelligence (DWBI) solution for a retail company. Using tools like Python, Snowflake, SQL, and Power BI, we follow the journey from raw data to impactful executive dashboards. The goal is to demonstrate how a complete analytics solution can be built i.e. from data modeling to insight generation, using cloud and open-source tools.
 
-
-### • [Global Economic Report: 1960-2018:](https://github.com/Rehaniqbal19/EconomicReport/)
-Using Python and popular libraries such as Pandas, Numpy, Matplotlib and Seaborn, I created a comprehensive data visualization on global economic trends spanning from 1960 to 2018. This project dives deep into GDP growth, population shifts, and development indicators to analyze economic progress and provide insightful projections.
-
-
-### • [Executive Dashboard](https://github.com/Rehaniqbal19/Executive-Detailed-Report/tree/main): 
+### • [Executive Dashboard: Power BI](https://github.com/Rehaniqbal19/Executive-Detailed-Report/tree/main) 
 A Power BI based report designed to provide actionable insights into various aspects of the company's performance. It consolidates and visualizes data from multiple sources, allowing stakeholders to make data-driven decisions across different operational areas, including sales, profitability, customer orders, and product returns.
 
+### • [Global Economic Report: 1960-2018: Python (Pandas, Numpy, Matplotlib, Seaborn)](https://github.com/Rehaniqbal19/EconomicReport/)
+Using Python and popular libraries such as Pandas, Numpy, Matplotlib and Seaborn, I created a comprehensive data visualization on global economic trends spanning from 1960 to 2018. This project dives deep into GDP growth, population shifts, and development indicators to analyze economic progress and provide insightful projections.
 
-### • [New York Airbnb Listing EDA: 2008-2021](https://github.com/Rehaniqbal19/NewYork-Airbnb-Listing): 
-Using Python and popular libraries such as Pandas, Numpy, Matplotlib and Seaborn, I did Exploratory Data Analysis (EDA) on New York's AirBnB Listings and discovered valuable insights. The data ranged from 2008 to 2021.
-
-### • [Baby Names Analysis ](https://github.com/Rehaniqbal19/BabyName_SQL)
+### • [Baby Names Analysis: SQL](https://github.com/Rehaniqbal19/BabyName_SQL)
 Using MySQL, I conducted a comprehensive analysis on the Baby Names dataset spaning across from 1980 to 2009. I leveraged SQL to uncover these insights from large dataset of more than 2 million rows.
 
-### • [Product Sales Performance Dashboard](https://github.com/Rehaniqbal19/Product-Market-Analysis/blob/main/README.md): 
+### • [New York Airbnb Listing EDA: 2008-2021: Python (Pandas, Numpy, Matplotlib, Seaborn)](https://github.com/Rehaniqbal19/NewYork-Airbnb-Listing): 
+Using Python and popular libraries such as Pandas, Numpy, Matplotlib and Seaborn, I did Exploratory Data Analysis (EDA) on New York's AirBnB Listings and discovered valuable insights. The data ranged from 2008 to 2021.
+
+
+### • [Product Sales Performance Dashboard: Power BI](https://github.com/Rehaniqbal19/Product-Market-Analysis/blob/main/README.md) 
 This Power BI dashboard provides a comprehensive analysis of sales performance for different product brands across multiple regions (Canada, Mexico, USA). Key metrics displayed include total transactions, total profit, profit margin, and return rate by product brand, with interactive year selection between 1997 and 1998.
 
 
 
-### • [Hospital Patient Records Dashboard](https://github.com/Rehaniqbal19/Hospital-Patient-Dashboard/blob/main/README.md): 
+### • [Hospital Patient Records Dashboard: R shiny](https://github.com/Rehaniqbal19/Hospital-Patient-Dashboard/blob/main/README.md): 
 This R Shiny application provides a basic dashboard for visualizing and analyzing hospital patient records, based on a dataset containing patient demographics, encounters, procedures, payers, and hospital organizations. The dashboard allows users to explore different aspects of the data, including patient demographics, encounter trends, procedure costs, and more.
 
 
