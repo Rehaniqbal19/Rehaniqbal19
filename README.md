@@ -2,7 +2,16 @@
 
 ## Welcome to my Github profile 👋
 
+---
 
+## Skills & Tools
+- Languages & Analytics: SQL, Python (NumPy, Pandas, Matplotlib, Seaborn), Excel, R (tidyverse, ggplot, shiny), VBA
+- Visualization: Power BI, Excel Charts, Looker, Tableau
+- Database Technologies: MySQL, SQL Server, PostgreSQL, Oracle, Snowflake
+- ETL / Data Integration tools: SSIS, Power Query, Alteryx
+- Other Tools: Microsoft Office Suite, Jira, Confluence, DAX, SAS
+
+---
 ## Projects
 
 ### • [Retail Store Data Integration Project: Snowflake, Python, SQL & Power BI](https://github.com/Rehaniqbal19/RetailStore_Dashboard/)
@@ -30,7 +39,7 @@ This Power BI dashboard provides a comprehensive analysis of sales performance f
 This R Shiny application provides a basic dashboard for visualizing and analyzing hospital patient records, based on a dataset containing patient demographics, encounters, procedures, payers, and hospital organizations. The dashboard allows users to explore different aspects of the data, including patient demographics, encounter trends, procedure costs, and more.
 
 
-
+---
 
 ## 📺 Courses and Certifications:
 
@@ -64,6 +73,15 @@ This R Shiny application provides a basic dashboard for visualizing and analyzin
 
 • [Data Analyst with Power BI – Career Track](https://www.datacamp.com/completed/statement-of-accomplishment/track/c4046a13a1c3c3c73b5daf5d7c2fbc3c92c9cc6e) (Datacamp)
 
+---
+
+### 📫 Contact
+
+📍 Toronto, Canada
+
+📧 rehan.181@hotmail.com
+
+🔗 [LinkedIn](https://linkedin.com/in/-rehaniqbal)
 
 <!--
 **Rehaniqbal19/Rehaniqbal19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
