@@ -5,11 +5,11 @@
 ---
 
 ## Skills & Tools
-- Languages & Analytics: SQL, Python (NumPy, Pandas, Matplotlib, Seaborn), Excel, R (tidyverse, ggplot, shiny), VBA
-- Visualization: Power BI, Excel Charts, Looker, Tableau
-- Database Technologies: MySQL, SQL Server, PostgreSQL, Oracle, Snowflake
-- ETL / Data Integration tools: SSIS, Power Query, Alteryx
-- Other Tools: Microsoft Office Suite, Jira, Confluence, DAX, SAS
+- **Languages & Analytics:** SQL, Python (NumPy, Pandas, Matplotlib, Seaborn), Excel, R (tidyverse, ggplot, shiny), VBA
+- **Visualization:** Power BI, Excel Charts, Looker, Tableau
+- **Database Technologies:** MySQL, SQL Server, PostgreSQL, Oracle, Snowflake
+- **ETL / Data Integration tools:** SSIS, Power Query, Alteryx
+- **Other Tools:** Microsoft Office Suite, Jira, Confluence, DAX, SAS
 
 ---
 ## Projects
@@ -43,35 +43,35 @@ This R Shiny application provides a basic dashboard for visualizing and analyzin
 
 ## 📺 Courses and Certifications:
 
-• [Snowflake: SnowPro Core Certified](https://achieve.snowflake.com/2dea88d4-b059-45e0-a56b-1258cf37a86b#acc.nhRxJ0qv)
+• [SnowPro Core Certified](https://achieve.snowflake.com/2dea88d4-b059-45e0-a56b-1258cf37a86b#acc.nhRxJ0qv) - *Snowflake*
 
-• [Microsoft Certified: Azure Administrator Associate: AZ-104](https://learn.microsoft.com/en-us/users/rehaniqbal-8477/credentials/certification/azure-administrator)
+• [Microsoft Azure Administrator Associate: AZ-104](https://learn.microsoft.com/en-us/users/rehaniqbal-8477/credentials/certification/azure-administrator) - *Microsoft*
 
-• [Microsoft Azure Fundamentals: AZ-900](https://learn.microsoft.com/en-us/users/rehaniqbal-8477/credentials/fc859fb86644273f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+• [Microsoft Azure Fundamentals: AZ-900](https://learn.microsoft.com/en-us/users/rehaniqbal-8477/credentials/fc859fb86644273f?ref=https%3A%2F%2Fwww.linkedin.com%2F) - *Microsoft*
 
-• [Microsoft Technology Associate Database Fundamentals: MTA 98-364](https://www.credly.com/badges/ff540ba4-d580-47e5-b770-5242ccd79bdd/linked_in_profile)
+• [Microsoft Technology Associate Database Fundamentals: MTA 98-364](https://www.credly.com/badges/ff540ba4-d580-47e5-b770-5242ccd79bdd/linked_in_profile) - *Microsoft*
 
-• [Certified Scrum Master®](https://bcert.me/bc/html/show-badge.html?b=qlojbvml) (Scrum Alliance)
+• [Certified Scrum Master®](https://bcert.me/bc/html/show-badge.html?b=qlojbvml) - *Scrum Alliance*
 
-• [Certified Product Owner®](https://bcert.me/bc/html/show-badge.html?b=cruevcah) (Scrum Alliance)
-
-###
-• [Python for Data Analytics](https://certificates.mavenanalytics.io/3a59f47b-c23b-48a9-b054-0658b88711a2#acc.zCIuA4Sh) (Maven Analytics - Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly, Dash))
-
-• [The Data Analyst Course: Complete Data Analyst Bootcamp](https://www.udemy.com/certificate/UC-74d1ef8d-0fa2-40ae-8c63-e4ace571e9e1/) (Udemy - Python (numpy, pandas, matplotlib, seaborn))
+• [Certified Product Owner®](https://bcert.me/bc/html/show-badge.html?b=cruevcah) - *Scrum Alliance*
 
 ###
-• [Complete Python Bootcamp from Zero to Hero](https://www.udemy.com/certificate/UC-84afd0be-d9b2-466a-b121-7d52b75be547/) (Udemy)
+• [Python for Data Analytics](https://certificates.mavenanalytics.io/3a59f47b-c23b-48a9-b054-0658b88711a2#acc.zCIuA4Sh) - *Maven Analytics: Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly, Dash)*
 
-• [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-72240b8d-be3e-453e-a5df-7c46e2761377/) (Udemy)
+• [The Data Analyst Course: Complete Data Analyst Bootcamp](https://www.udemy.com/certificate/UC-74d1ef8d-0fa2-40ae-8c63-e4ace571e9e1/) - *Udemy: Python (numpy, pandas, matplotlib, seaborn)*
 
-• [Shiny Fundamentals with R – Skill Track](https://www.datacamp.com/completed/statement-of-accomplishment/track/bf0f327492bb1dcc2f27f34689aa274841044794) (Datacamp)
+###
+• [Complete Python Bootcamp from Zero to Hero](https://www.udemy.com/certificate/UC-84afd0be-d9b2-466a-b121-7d52b75be547/) - *Udemy*
 
-• [Data Analyst with R – Career Track](https://www.datacamp.com/completed/statement-of-accomplishment/track/90f80672befdfe9e741fc65c3342a4e9a9cc2967) (Datacamp)
+• [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-72240b8d-be3e-453e-a5df-7c46e2761377/) - *Udemy*
 
-• [Data Analyst with SQL – Career Track](https://www.datacamp.com/completed/statement-of-accomplishment/track/8be7768f8612799814bd76c2109fda4bfc1a0f5e) (Datacamp)
+• [Shiny Fundamentals with R – Skill Track](https://www.datacamp.com/completed/statement-of-accomplishment/track/bf0f327492bb1dcc2f27f34689aa274841044794) - *Datacamp*
 
-• [Data Analyst with Power BI – Career Track](https://www.datacamp.com/completed/statement-of-accomplishment/track/c4046a13a1c3c3c73b5daf5d7c2fbc3c92c9cc6e) (Datacamp)
+• [Data Analyst with R – Career Track](https://www.datacamp.com/completed/statement-of-accomplishment/track/90f80672befdfe9e741fc65c3342a4e9a9cc2967) - *Datacamp*
+
+• [Data Analyst with SQL – Career Track](https://www.datacamp.com/completed/statement-of-accomplishment/track/8be7768f8612799814bd76c2109fda4bfc1a0f5e) - *Datacamp*
+
+• [Data Analyst with Power BI – Career Track](https://www.datacamp.com/completed/statement-of-accomplishment/track/c4046a13a1c3c3c73b5daf5d7c2fbc3c92c9cc6e) - *Datacamp*
 
 ---
 
