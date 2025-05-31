@@ -26,12 +26,13 @@ Using Python and popular libraries such as Pandas, Numpy, Matplotlib and Seaborn
 ### • [Baby Names Analysis: SQL](https://github.com/Rehaniqbal19/BabyName_SQL)
 Using MySQL, I conducted a comprehensive analysis on the Baby Names dataset spaning across from 1980 to 2009. I leveraged SQL to uncover these insights from large dataset of more than 2 million rows.
 
+### • [Product Sales Performance Dashboard: Power BI](https://github.com/Rehaniqbal19/Product-Market-Analysis/blob/main/README.md) 
+This Power BI dashboard provides a comprehensive analysis of sales performance for different product brands across multiple regions (Canada, Mexico, USA). Key metrics displayed include total transactions, total profit, profit margin, and return rate by product brand, with interactive year selection between 1997 and 1998.
+
+
 ### • [New York Airbnb Listing EDA: 2008-2021: Python (Pandas, Numpy, Matplotlib, Seaborn)](https://github.com/Rehaniqbal19/NewYork-Airbnb-Listing): 
 Using Python and popular libraries such as Pandas, Numpy, Matplotlib and Seaborn, I did Exploratory Data Analysis (EDA) on New York's AirBnB Listings and discovered valuable insights. The data ranged from 2008 to 2021.
 
-
-### • [Product Sales Performance Dashboard: Power BI](https://github.com/Rehaniqbal19/Product-Market-Analysis/blob/main/README.md) 
-This Power BI dashboard provides a comprehensive analysis of sales performance for different product brands across multiple regions (Canada, Mexico, USA). Key metrics displayed include total transactions, total profit, profit margin, and return rate by product brand, with interactive year selection between 1997 and 1998.
 
 
 
