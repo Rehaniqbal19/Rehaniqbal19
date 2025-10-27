@@ -44,6 +44,8 @@ This R Shiny application provides a basic dashboard for visualizing and analyzin
 
 ## 📺 Courses and Certifications:
 
+• [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/rehaniqbal-8477/credentials/certification/data-analyst-associate) - *Microsoft*
+
 • [SnowPro Core Certified](https://achieve.snowflake.com/2dea88d4-b059-45e0-a56b-1258cf37a86b#acc.nhRxJ0qv) - *Snowflake*
 
 • [Microsoft Azure Administrator Associate: AZ-104](https://learn.microsoft.com/en-us/users/rehaniqbal-8477/credentials/certification/azure-administrator) - *Microsoft*
