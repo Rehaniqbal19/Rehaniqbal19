@@ -42,7 +42,10 @@ This R Shiny application provides a basic dashboard for visualizing and analyzin
 
 ---
 
-## 📺 Courses and Certifications:
+## Education, Courses and Certifications:
+
+
+#### • Bachelors of Science in Computer Engineering - GIKI, Pakistan
 
 • [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/rehaniqbal-8477/credentials/certification/data-analyst-associate) - *Microsoft*
 
@@ -78,7 +81,7 @@ This R Shiny application provides a basic dashboard for visualizing and analyzin
 
 ---
 
-### 📫 Contact
+###  Contact
 
 📍 Toronto, Canada
 
