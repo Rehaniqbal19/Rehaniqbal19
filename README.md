@@ -5,8 +5,8 @@
 ---
 
 ## Skills & Tools
-- **Languages & Analytics:** SQL, Python (NumPy, Pandas, Matplotlib, Seaborn), Excel, R (tidyverse, ggplot, shiny), VBA
-- **Visualization:**  Power BI, Excel Charts, Looker, Tableau
+- **Languages & Analytics:** SQL, Python, Excel, R, VBA
+- **Visualization:**  Power BI, Excel Charts, Tableau
 - **Database Technologies:**   MySQL, SQL Server, PostgreSQL, Oracle, Snowflake
 - **ETL / Data Integration tools:** SSIS, Power Query, Alteryx
 - **Other Tools:** Microsoft Office Suite, Jira, Confluence, DAX, SAS
