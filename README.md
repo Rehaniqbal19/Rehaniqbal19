@@ -17,6 +17,9 @@
 ### • [Retail Store Data Integration Project: Snowflake, Python, SQL & Power BI](https://github.com/Rehaniqbal19/RetailStore_Dashboard/)
 This project simulates a real-world scenario of building a modern data warehouse and business intelligence (DWBI) solution for a retail company. Using tools like Python, Snowflake, SQL, and Power BI, we follow the journey from raw data to impactful executive dashboards. The goal is to demonstrate how a complete analytics solution can be built i.e. from data modeling to insight generation, using cloud and open-source tools.
 
+### • [Inventory Management App: Power Apps & Dataverse](https://github.com/Rehaniqbal19/InventoryApp)
+This project showcases a no-code inventory management solution built with Microsoft Power Apps and Dataverse. It focuses on modeling product and stock data in Dataverse, then using Power Fx formulas to create a responsive canvas app with search, category filters, low-stock indicators, and an add/edit form. The goal is to demonstrate how quickly a practical line-of-business app can be delivered using the Power Platform instead of traditional custom development.
+
 ### • [Executive Dashboard: Power BI](https://github.com/Rehaniqbal19/Executive-Detailed-Report/tree/main) 
 A Power BI based report designed to provide actionable insights into various aspects of the company's performance. It consolidates and visualizes data from multiple sources, allowing stakeholders to make data-driven decisions across different operational areas, including sales, profitability, customer orders, and product returns.
 
